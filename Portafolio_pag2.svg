@@ -894,11 +894,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="383.1181"
-     inkscape:cy="384.42809"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="85.907515"
+     inkscape:cy="308.63483"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="mm"
      inkscape:window-width="1366"
@@ -906,7 +906,7 @@
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1"
-     showguides="false" />
+     showguides="true" />
   <metadata
      id="metadata9492">
     <rdf:RDF>
@@ -1067,10 +1067,9 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Texto"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <flowRoot
-       transform="translate(-36.405667,138.95846)"
+       transform="translate(-36.405667,158.95846)"
        style="font-style:normal;font-weight:normal;font-size:4.16161251px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5386-9"
        xml:space="preserve"><flowRegion
@@ -1081,11 +1080,11 @@
            width="301.65976"
            id="rect5390-2" /></flowRegion><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara5478-3">Una hackathon es un evento presencial de desarrollo colaborativo de software o hardware en un corto periodo de tiempo.</flowPara><flowPara
+         id="flowPara4457">Una hackathon es un evento presencial de desarrollo colaborativo de software o hardware en un corto período de tiempo. </flowPara><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara5407" /><flowPara
+         id="flowPara4479" /><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara5409">Combina innovación y técnica con el fin de generar soluciones tecnológicas a problemáticas concretas. El objetivo además de poner a pruebas los conocimientos de cada grupo de participantes </flowPara></flowRoot>    <text
+         id="flowPara4481">Combina innovación y técnica con el fin de generar soluciones tecnológicas a problemáticas concretas. El objetivo además de poner a pruebas los conocimientos de cada grupo de participantes, es generar soluciones a dichos problemas brindando a la comunidad toda la documentación necesaria para replicar dicho proyecto</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:71.91455841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;fill:#f9d217;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="24.500807"
@@ -1125,7 +1124,7 @@
          id="tspan5376"
          sodipodi:role="line">CONTACTO</tspan></text>
     <flowRoot
-       transform="translate(793.79711,159.69138)"
+       transform="translate(793.79711,169.56337)"
        style="font-style:normal;font-weight:normal;font-size:4.16161251px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5386"
        xml:space="preserve"><flowRegion
@@ -1136,9 +1135,7 @@
            width="307.90976"
            id="rect5390" /></flowRegion><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara5474">glud@udistrital.edu.co</flowPara><flowPara
-         style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara44134">radioglud@gmail.com</flowPara><flowPara
+         id="flowPara44134">glud@udistrital.edu.co</flowPara><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
          id="flowPara5478" /></flowRoot>    <text
        transform="scale(0.97593549,1.0246579)"
@@ -1193,12 +1190,12 @@
        transform="scale(0.97593549,1.0246579)"
        sodipodi:linespacing="125%"
        id="text5534-3"
-       y="599.38293"
+       y="650.13153"
        x="18.043335"
        style="font-style:normal;font-weight:normal;font-size:71.91455841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#f9d217;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        xml:space="preserve"><tspan
          style="font-size:20.22597122px;fill:#f9d217;fill-opacity:1"
-         y="599.38293"
+         y="650.13153"
          x="18.043335"
          id="tspan5536-6"
          sodipodi:role="line">Más información</tspan></text>
@@ -1206,7 +1203,7 @@
        xml:space="preserve"
        id="flowRoot5538-7"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-35.888699,478.88985)"><flowRegion
+       transform="translate(-35.888699,530.88985)"><flowRegion
          id="flowRegion5540-5"><rect
            id="rect5542-3"
            width="296.80569"
@@ -1218,7 +1215,7 @@
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff">Visita nuestra página web: </flowPara><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
          id="flowPara5576" /></flowRoot>    <flowRoot
-       transform="translate(-36.781644,498.88985)"
+       transform="translate(-36.781644,550.88985)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#f9d217;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5578"
        xml:space="preserve"><flowRegion
@@ -1234,17 +1231,17 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:71.91455841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#f9d217;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="18.74453"
-       y="462.75192"
+       y="533.01935"
        id="text5600"
        sodipodi:linespacing="125%"
        transform="scale(0.97593549,1.0246579)"><tspan
          sodipodi:role="line"
          id="tspan5602"
          x="18.74453"
-         y="462.75192"
+         y="533.01935"
          style="font-size:20.22597122px;fill:#f9d217;fill-opacity:1">Objetivo</tspan></text>
     <flowRoot
-       transform="translate(-36.405667,338.88985)"
+       transform="translate(-36.405667,410.88985)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5604"
        xml:space="preserve"><flowRegion
@@ -1781,10 +1778,10 @@
            height="246.8828"
            x="55.055752"
            y="140.64372" /></flowRegion><flowPara
-         id="flowPara45132"
-         style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff">glud.org</flowPara><flowPara
          style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
-         id="flowPara45139">semanalinuxud.com</flowPara></flowRoot>    <flowRoot
+         id="flowPara45139">semanalinuxud.com</flowPara><flowPara
+         style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff"
+         id="flowPara4485">gludblog.wordpress.com</flowPara></flowRoot>    <flowRoot
        transform="translate(793.79711,315.78212)"
        style="font-style:normal;font-weight:normal;font-size:4.16161251px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot45143"

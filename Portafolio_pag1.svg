@@ -347,9 +347,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="654.92189"
-     inkscape:cy="297.74435"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="870.21575"
+     inkscape:cy="112.75605"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1690,17 +1690,17 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:71.91455841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#f9d217;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        x="752.95374"
-       y="566.8786"
+       y="605.91608"
        id="text5538"
        sodipodi:linespacing="125%"
        transform="scale(0.97593549,1.0246579)"><tspan
          sodipodi:role="line"
          id="tspan5540"
          x="752.95374"
-         y="566.8786"
+         y="605.91608"
          style="font-size:20.22597122px;fill:#f9d217;fill-opacity:1">Más detalles</tspan></text>
     <flowRoot
-       transform="translate(680.23486,445.58403)"
+       transform="translate(680.23486,485.58403)"
        style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot5542"
        xml:space="preserve"><flowRegion
@@ -1784,5 +1784,31 @@
          y="244.6606"
          id="tspan7715-5-2-9"
          style="font-size:6.74199057px;fill:#f9d217;fill-opacity:1" /></text>
-  </g>
+    <text
+       transform="scale(0.97593549,1.0246579)"
+       sodipodi:linespacing="125%"
+       id="text4450"
+       y="547.35992"
+       x="752.95374"
+       style="font-style:normal;font-weight:normal;font-size:71.91455841px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;clip-rule:evenodd;display:inline;fill:#f9d217;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       xml:space="preserve"><tspan
+         style="font-size:20.22597122px;fill:#f9d217;fill-opacity:1"
+         y="547.35992"
+         x="752.95374"
+         id="tspan4452"
+         sodipodi:role="line">¿Cuando?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4454"
+       style="font-style:normal;font-weight:normal;font-size:10px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(680.23486,425.58403)"><flowRegion
+         id="flowRegion4456"><rect
+           id="rect4458"
+           width="296.80569"
+           height="103.07167"
+           x="55.055752"
+           y="140.64372"
+           style="font-size:10px;text-align:justify;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara4460"
+         style="font-size:13.75px;text-align:justify;text-anchor:start;fill:#ffffff">Del 28 de agosto al 2 de septiembre del 2017</flowPara></flowRoot>  </g>
 </svg>
