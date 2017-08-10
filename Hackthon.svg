@@ -339,8 +339,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="270.01429"
-     inkscape:cy="139.54735"
+     inkscape:cx="327.15715"
+     inkscape:cy="196.69021"
      inkscape:document-units="in"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -359,7 +359,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -368,8 +368,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-135.17209)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="opacity:1;fill:#fad317;fill-opacity:0.99607843;stroke:none;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136"
@@ -416,8 +415,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="imagen"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        id="use9119"
        style="fill:#000000"
@@ -464,8 +462,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="info"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4145-2-4"
@@ -658,7 +655,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="patrocinadores">
+     inkscape:label="patrocinadores"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4424"
@@ -1256,8 +1254,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="title"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4245-8"

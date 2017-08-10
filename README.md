@@ -8,5 +8,7 @@ Incluye diseños de:
 * Pulsera
 * Mug
 
+**NOTA: Los Logos de patrocinadores no debén ser usados sin consentimiento explícito de los mismos**
+
 ![Poster SLUD](https://raw.githubusercontent.com/GLUD/SLUD-2017/master/SLUD.png)
 ![Poster Hackathon](https://raw.githubusercontent.com/GLUD/SLUD-2017/master/hackathon.png)
